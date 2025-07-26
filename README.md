@@ -3,11 +3,11 @@
 <ul >
   <li>🚀 I’m currently diving deep into: AI, Machine Learning, Deep Learning, NLP</li>
   <li>🤖 Building LLM-powered apps like RAG-based chatbots and code assistants</li>
-  <li>🧠Passionate about smart, user-friendly solutions — love UI/UX & creative tech!</li>
+  <li>🧠Passionate about smart, user-friendly solutions!</li>
 </ul>
 
 <p >
-📬 For collaboration or inquiries, reach out at <b>khushidk19@gmail.com</b>
+📬 For collaboration or inquiries, reach out at <b>khushidk119@gmail.com</b>
 </p>
 
 ---
